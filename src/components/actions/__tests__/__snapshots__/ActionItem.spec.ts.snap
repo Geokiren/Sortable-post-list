@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ActionItem > Matches snapshot 1`] = `
+"<div class="action-item card flex justify-between items-center p-2 md:p-3 lg:p-4 border-b-2" data-test="action-item">
+  <div class="action-item-message text-text-primary text-xs :md:text-lg lg:text-xl font-semibold mr-2" data-test="action-item-message">Action 1</div><button class="button bg-primary-button text-primary-button-text">Time travel</button>
+</div>"
+`;

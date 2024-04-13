@@ -1,0 +1,22 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ActionList > Matches snapshot 1`] = `
+"<section data-v-d0f28be6="" id="action-list" class="flex flex-col w-full md:w-1/2 rounded-md shadow-lg h-fit bg-primary">
+  <div data-v-d0f28be6="" class="flex items-center bg-white p-2 md:p-4 rounded-t-md">
+    <h2 data-v-d0f28be6="" class="text-xl lg:text-3xl font-bold text-action-title p-3 tracking-wide">List of actions commited</h2>
+  </div>
+  <div data-v-d0f28be6="" class="flex flex-col p-3 md:p-5 lg:p-8">
+    <transition-group-stub data-v-d0f28be6="" name="action-list" tag="div" appear="false" persisted="false" css="true" class="transition-group-actions">
+      <div data-v-d0f28be6="" class="action-item card flex justify-between items-center p-2 md:p-3 lg:p-4 border-b-2" data-test="action-item">
+        <div class="action-item-message text-text-primary text-xs :md:text-lg lg:text-xl font-semibold mr-2" data-test="action-item-message">Action 1</div><button class="button bg-primary-button text-primary-button-text">Time travel</button>
+      </div>
+      <div data-v-d0f28be6="" class="action-item card flex justify-between items-center p-2 md:p-3 lg:p-4 border-b-2" data-test="action-item">
+        <div class="action-item-message text-text-primary text-xs :md:text-lg lg:text-xl font-semibold mr-2" data-test="action-item-message">Action 2</div><button class="button bg-primary-button text-primary-button-text">Time travel</button>
+      </div>
+      <div data-v-d0f28be6="" class="action-item card flex justify-between items-center p-2 md:p-3 lg:p-4" data-test="action-item">
+        <div class="action-item-message text-text-primary text-xs :md:text-lg lg:text-xl font-semibold mr-2" data-test="action-item-message">Action 3</div><button class="button bg-primary-button text-primary-button-text">Time travel</button>
+      </div>
+    </transition-group-stub>
+  </div>
+</section>"
+`;

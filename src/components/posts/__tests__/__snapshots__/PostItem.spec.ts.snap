@@ -1,0 +1,12 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`PostItem > Matches snapshot 1`] = `
+"<div class="post-item card p-2 md:p-4 h-24 lg:h-32 mb-4 md:mb-6 flex justify-between items-center text-text-primary text-xl font-semibold" data-test="post-item">
+  <div>Post 1</div>
+  <div class="flex flex-col h-full justify-center">
+    <!--v-if--><button class="caret rotate-180"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-5 h-5 fill-secondary" data-test="caret-svg">
+        <path d="M201.4 137.4c12.5-12.5 32.8-12.5 45.3 0l160 160c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L224 205.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l160-160z"></path>
+      </svg></button>
+  </div>
+</div>"
+`;

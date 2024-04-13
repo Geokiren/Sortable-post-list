@@ -1,0 +1,22 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`AlertsList > Matches snapshot 1`] = `
+"<div id="alerts -list" class="alerts flex flex-col gap-1 justify-center items-end p-4">
+  <div data-v-e382e1fe="" class="alert flex items-center px-4 py-2 rounded-xl relative z-10 undefined bg-red-500 text-red-100 w-full" data-test="alert-message">
+    <div data-v-e382e1fe="" class="flex justify-center w-11/12">
+      <div data-v-e382e1fe="">Error 1</div>
+    </div>
+    <div data-v-e382e1fe="" class="flex justify-end w-1/12"><svg data-v-e382e1fe="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="fill-red-100 w-5 h-5 rotate-90 cursor-pointer transition-all duration-500" data-test="caret-svg">
+        <path d="M201.4 137.4c12.5-12.5 32.8-12.5 45.3 0l160 160c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L224 205.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l160-160z"></path>
+      </svg></div>
+  </div>
+  <div data-v-e382e1fe="" class="alert flex items-center px-4 py-2 rounded-xl relative z-10 undefined bg-yellow-500 text-yellow-100 w-full" data-test="alert-message">
+    <div data-v-e382e1fe="" class="flex justify-center w-11/12">
+      <div data-v-e382e1fe="">Warning 1</div>
+    </div>
+    <div data-v-e382e1fe="" class="flex justify-end w-1/12"><svg data-v-e382e1fe="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="fill-yellow-100 w-5 h-5 rotate-90 cursor-pointer transition-all duration-500" data-test="caret-svg">
+        <path d="M201.4 137.4c12.5-12.5 32.8-12.5 45.3 0l160 160c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L224 205.3 86.6 342.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3l160-160z"></path>
+      </svg></div>
+  </div>
+</div>"
+`;
