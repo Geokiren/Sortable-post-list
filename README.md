@@ -20,7 +20,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Create an .env file to your root
+### Create an .env file to your root folder
 
 ```sh
 VITE_API_BASE_URL=<Your api base url>
