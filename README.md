@@ -1,4 +1,4 @@
-# temper-assignment
+# Sortable post list
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -18,6 +18,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ```sh
 npm install
+```
+
+### Create an .env file to your root folder
+
+```sh
+VITE_API_BASE_URL=<Your api base url>
 ```
 
 ### Compile and Hot-Reload for Development
